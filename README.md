@@ -1,4 +1,7 @@
 # top_five
+Professor: Chris Brown
+Date: November 18, 2024
+Mood: Happy
 
 Team member names:
 Daniel Abaye
