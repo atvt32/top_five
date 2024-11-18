@@ -4,3 +4,6 @@ I don't currently deploy any software to an active userbase
 
 Andrew:
 I use Actions to make changes to my website hosted on Azure. 
+
+Daniel:
+I currently have very little experience with CI.
