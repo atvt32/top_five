@@ -1,0 +1,6 @@
+Dylan:
+My prior experience with Continous Integration is close to nothing.
+I don't currently deploy any software to an active userbase
+
+Andrew:
+I use Actions to make changes to my website hosted on Azure. 
